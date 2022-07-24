@@ -6,6 +6,7 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Nobre&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
 <div style="display: inline_block"><br>
+<div>
   <img align="center" alt="Matheus-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Matheus-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Matheus-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
