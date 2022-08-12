@@ -1,7 +1,7 @@
-## E aí!! Eu sou Matheus Moreira⚡
+## E aí!! Eu sou **Matheus Nobre**⚡
 
 <div align="center">
-  <a href="https://github.com/Matheus-Nobre">
+  <a href="https://github.com/MatheusNobreM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusNobreM&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusNobreM&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
