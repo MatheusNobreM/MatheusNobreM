@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Matheus-Nobre">
-  <img width="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Nobre&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Nobre&layout=compact&langs_count=7&theme=graywhite"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Nobre&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Nobre&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
