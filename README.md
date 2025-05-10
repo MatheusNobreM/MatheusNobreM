@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Matheus Nobre!
 
-<p align="left">💻Sou **especialista em testes de software** para sistemas web e mobile, apaixonado por qualidade e inovação tecnológica.</p>
+<p align="left">💻Sou especialista em testes de software para sistemas web e mobile.</p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -26,7 +26,7 @@
 
 ## 📬 Entre em Contato
 
- <p align="left">Vamos conversar? Me encontre aqui: ⤵️</p>
+ <p align="left">Me encontre aqui: ⤵️</p>
 
 <p align="left">
   <a href="mailto:matheusnobreips@gmail.com" title="Gmail">
