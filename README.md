@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Matheus Nobre!
 
-<p align="left">💻Sou especialista em testes de software para sistemas web e mobile.</p>
+<p align="left">💻Sou Desenvolvedor Full Stack e testes de software para sistemas web e mobile.</p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
